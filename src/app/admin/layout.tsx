@@ -30,7 +30,7 @@ export default async function Layout({ children }: { children: React.ReactNode }
         <div>
           <div>
             <h1>HAHAHAHA</h1>
-            <p></p>
+            <p>Welcome Boss</p>
           </div>
         </div>
       </div>
