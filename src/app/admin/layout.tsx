@@ -28,7 +28,9 @@ export default async function Layout({ children }: { children: React.ReactNode }
       </div>
       <div>
         <div>
-          
+          <div>
+            <h1></h1>
+          </div>
         </div>
       </div>
     </div>
